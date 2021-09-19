@@ -1,0 +1,4 @@
+username:Schooltot
+phone:18762024040
+Email:ucc@stu.ucc.edu.jm
+password:uccpass
